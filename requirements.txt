@@ -1,5 +1,4 @@
-jupyterlab
-rdkit_pypy
+rdkit
 seaborn
 pandas
 networkx
