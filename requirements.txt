@@ -1,0 +1,12 @@
+jupyterlab
+rdkit_pypy
+seaborn
+pandas
+networkx
+numpy
+matplotlib
+biopython
+pandas
+openpyxl
+powerlaw
+tqdm
