@@ -8,8 +8,6 @@ This repository contains the information required to reproduce our study of tran
 
 ## Contents
 
-- notebooks: simple files to run the analysis
-- code: in-house library to parse and process data
 - data: raw-data
 - networks: results
 
@@ -21,9 +19,7 @@ This repository contains the information required to reproduce our study of tran
 We recomend installing conda, creating a separate environment, installing pip, and installing the
 library at the *code* folder.
 
-	conda env create --file environment.yml
-	cd code
-	pip install -e $(pwd)
+	pip install requirements.txt
 
 
 To run the Node2Vec analysis, you will need a working version of PyTorch loaded in your environment.
